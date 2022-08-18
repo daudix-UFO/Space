@@ -1,6 +1,6 @@
 # The Space theme
 
-![Thumbnail of Space](thumbnail.png)
+![Thumbnail of Space](thumbnail.svg)
 
 ## Where is README?
 
