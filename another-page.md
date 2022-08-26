@@ -8,6 +8,6 @@ description: Spaaaaaace!
 
 # Spaaaaaaaaaaaace!
 
-_I Love Space_
+_I Love Space!_
 
 [🡨 Back](./)
