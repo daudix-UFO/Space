@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Cake](https://i1.theportalwiki.net/img/0/0a/Portal_Cake.png)
+![Daudix](https://avatars.githubusercontent.com/u/77155297?s=128)
 
 ### Large image
 
