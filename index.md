@@ -4,26 +4,26 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to "The Space!"](./another-page.html).
+[Link to "The Space!"](./another-page.html)
 
-There should be whitespace between paragraphs.
+The cake is a lie!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Or not?
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This normal to think that the cake is a lie
 
 ## Header 2
 
-> This is a blockquote following a header.
+> But you never can know, it is true?
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Or pie is a lie?
 
 ### Header 3
 
 ```js
-// Javascript code with syntax highlighting.
+// Cakescript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
@@ -31,7 +31,7 @@ var fun = function lang(l) {
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
+# Pie code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
@@ -53,12 +53,12 @@ end
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| in stock     | cookies           | nice  |
+| out of stock | black forest cake | lie   |
+| in stock     | apple pie         | well  |
+| in stuck     | not responding…   | error |
 
-### There's a horizontal rule below this.
+### There's a one rule… below this
 
 * * *
 
@@ -71,10 +71,10 @@ end
 
 ### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  Floor
+2.  Milk
+3.  Eggs
+4.  Sugar
 
 ### And a nested list:
 
@@ -94,24 +94,24 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Cake](https://i1.theportalwiki.net/img/0/0a/Portal_Cake.png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![The best car](https://upload.wikimedia.org/wikipedia/commons/0/03/1969_Ford_Mustang.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Chell</dd>
 <dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>UNKNOWN</dd>
+<dt>Gender</dt>
+<dd>Female</dd>
+<dt>Allow for testing</dt>
+<dd>Never and under any circumstances</dd>
 </dl>
 
 ```
