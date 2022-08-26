@@ -71,10 +71,10 @@ end
 
 ### And an ordered list:
 
-1.  Floor
-2.  Milk
-3.  Eggs
-4.  Sugar
+1. Floor
+2. Milk
+3. Eggs
+4. Sugar
 
 ### And a nested list:
 
