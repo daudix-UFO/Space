@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Space
+description: Spaaaaaace!
 ---
 
 ## Welcome to another page
 
-_Spaaaaaaaaaaaace!_
+![Space Core](https://i1.theportalwiki.net/img/b/bc/SpaceCore.png)
+
+# Spaaaaaaaaaaaace!
 
 [back](./)
