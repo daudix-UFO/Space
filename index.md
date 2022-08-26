@@ -12,7 +12,7 @@ Or not?
 
 # Header 1
 
-This normal to think that the cake is a lie
+This is normal to think that the cake is a lie
 
 ## Header 2
 
