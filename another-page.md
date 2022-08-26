@@ -6,7 +6,7 @@ description: Spaaaaaace!
 
 ## Welcome to another page
 
-![Space Core](https://i1.theportalwiki.net/img/b/bc/SpaceCore.png?s=128)
+<img width="128" height="128" src="https://i1.theportalwiki.net/img/b/bc/SpaceCore.png">
 
 # Spaaaaaaaaaaaace!
 
